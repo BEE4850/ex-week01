@@ -95,9 +95,11 @@ using StatsPlots # some additional statistical plotting tools
 
 ::: {.cell .markdown}
 
-## Problems (Total: 10 Points)
+## Problems 
 
 The goal of this exercise is for you to visualize and reason about the relationship between global mean surface temperature and global mean sea levels.
+
+Problems 1 and 2 are both marked out of 5 points.
 
 :::
 
